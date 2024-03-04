@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a25c8730-71bd-4730-93a0-84c5c05db585" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Huddleston_Patience_Ass_01_Rock_Paper_Scissors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RPS.java" afterDir="false" />
-    </list>
+    <list default="true" id="a25c8730-71bd-4730-93a0-84c5c05db585" name="Changes" comment="autobots assemble!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,9 +50,20 @@
       <option name="presentableId" value="Default" />
       <updated>1709068262143</updated>
     </task>
+    <task id="LOCAL-00001" summary="autobots assemble!">
+      <option name="closed" value="true" />
+      <created>1709520328057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709520328057</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="autobots assemble!" />
+    <option name="LAST_COMMIT_MESSAGE" value="autobots assemble!" />
   </component>
 </project>
